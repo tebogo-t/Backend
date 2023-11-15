@@ -1,6 +1,7 @@
 {
-	"author": "Jan Doe",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Tebogo", 
 	"dependencies": {
 		"express": "^4.14.0"
 	},
